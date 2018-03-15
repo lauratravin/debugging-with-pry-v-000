@@ -5,3 +5,5 @@ def plus_two(num)
 	print "Hello"
 
 end
+
+plus_two.
